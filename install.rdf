@@ -7,12 +7,13 @@
         RDF:about="urn:mozilla:install-manifest"
         em:id="schnetter@gmail.com"
         em:name="Zotero Citation Counts Manager"
-        em:version="1.3.0"
+        em:version="1.4.0"
         em:type="2"
         em:creator="Erik Schnetter"
         em:description="Automatically fetch and update citation counts"
         em:homepageURL="https://github.com/eschnett/zotero-citationcounts"
-        em:updateURL="https://raw.githubusercontent.com/eschnett/zotero-citationcounts/master/update.rdf">
+        em:updateURL="https://raw.githubusercontent.com/eschnett/zotero-citationcounts/master/update.rdf"
+        em:strictCompatibility="true">
         <em:type>2</em:type>
         <em:targetApplication>
             <Description>
